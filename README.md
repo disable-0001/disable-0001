@@ -22,10 +22,10 @@ The operational layers behind the products above.
 
 ## Tooling
 
-[jev-nodriver-browser](https://github.com/disable-0001/jev-nodriver-browser) is the owned-Chrome browser driver
-used for research and verification: SERP capture, Ahrefs table reads and the page-level link verification
-behind the backlink audits in the [RestocksAIO SEO research](https://github.com/disable-0001/RestocksAIO-website/blob/main/research/seo-2026-10/backlinks.md).
+`jev-nodriver-browser` is the owned-Chrome browser driver used for research and verification: SERP capture,
+Ahrefs table reads and the page-level link verification behind the backlink audits in
+[RestocksAIO-website/research/seo-2026-10/backlinks.md](https://github.com/disable-0001/RestocksAIO-website/tree/main/research/seo-2026-10).
 
 ## Contact
 
-Business and partnership enquiries: [restock.gg/contact](https://restock.gg/contact)
+Business and partnership enquiries: [hello@restock.gg](mailto:hello@restock.gg)
