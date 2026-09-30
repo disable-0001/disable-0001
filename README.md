@@ -4,27 +4,16 @@ Sneaker resale tooling, Ibiza sneaker deals and barcode lookup.
 
 | Project | What it is | Live |
 | --- | --- | --- |
-| [RestocksAIO](https://github.com/disable-0001/RestocksAIO-website) | Windows desktop + web app for professional sneaker and streetwear resellers: one inventory and listing workflow across StockX, Alias/GOAT, POIZON, KLEKT and other resale marketplaces. | [restock.gg](https://restock.gg) · [docs](https://docs.restock.gg) |
-| [HYPEIBIZA](https://github.com/disable-0001/hypeibiza-affiliate) | Sneaker and streetwear deal site for Ibiza, in English and Spanish. | [hypeibiza.com](https://hypeibiza.com) |
-| [Barcodes.GG](https://github.com/disable-0001/barcodes-docs) | Sneaker barcode and style-code lookup API: EAN/UPC to product, style code to product, reverse lookup and images. | [barcodes.gg](https://barcodes.gg) |
+| RestocksAIO | Windows desktop and web app for professional sneaker and streetwear resellers: one inventory and listing workflow across StockX, Alias/GOAT, POIZON, KLEKT and other resale marketplaces. | [restock.gg](https://restock.gg) · [docs](https://docs.restock.gg) |
+| HYPEIBIZA | Sneaker and streetwear deal site for Ibiza, in English and Spanish. | [hypeibiza.com](https://hypeibiza.com) |
+| Barcodes.GG | Sneaker barcode and style-code lookup API: EAN/UPC to product, style code to product, reverse lookup and images. | [barcodes.gg](https://barcodes.gg) |
 
-## Supporting repositories
+These three products are closed-source and their repositories are private. This profile exists to link the
+public websites to the person and the projects that build them.
 
-The operational layers behind the products above.
+## Open source
 
-- [RestocksAIO-GitBook](https://github.com/disable-0001/RestocksAIO-GitBook) — customer documentation
-- [SharedSizeDatabase](https://github.com/disable-0001/SharedSizeDatabase) — shoe and apparel size-parsing kernel
-- [RestocksGUIServer-V4](https://github.com/disable-0001/RestocksGUIServer-V4) — backend relay for the desktop clients
-- [RestocksAIODatabaseAppender](https://github.com/disable-0001/RestocksAIODatabaseAppender) — builds the product database
-- [EANScrapper](https://github.com/disable-0001/EANScrapper) — harvests barcode/product pairs into Barcodes.GG
 - [OrModelSelector](https://github.com/disable-0001/OrModelSelector) — terminal picker for OmniRoute model profiles
-- [InvoiceProcessor](https://github.com/disable-0001/InvoiceProcessor) — Spanish invoice and tax automation
-
-## Tooling
-
-`jev-nodriver-browser` is the owned-Chrome browser driver used for research and verification: SERP capture,
-Ahrefs table reads and the page-level link verification behind the backlink audits in
-[RestocksAIO-website/research/seo-2026-10/backlinks.md](https://github.com/disable-0001/RestocksAIO-website/tree/main/research/seo-2026-10).
 
 ## Contact
 
